@@ -65,4 +65,3 @@ The random-delay option makes it easy to exercise different thread schedules wit
 ## Sources and assistance
 
 - *Lab 6: Babble — A multi-threaded server (for social networking)*, Université Grenoble Alpes, 2026, §§4–6 and §8.
-- OpenAI Codex assisted with the Stage 2 and Stage 3 implementations, test execution and report drafting.
